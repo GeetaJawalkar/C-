@@ -1,9 +1,6 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 char box[3][3]={'1','2','3','4','5','6','7','8','9'};
-
-
-
 
 bool entry(char choice,char player)
 {
@@ -48,7 +45,7 @@ bool check()
 }
 
 
-////////////////////////////////////when user is both player x and y////////////////////////////////////////
+//////////////////////////////////// when user is both player x and y ////////////////////////////////////////
 
 int main()
 {
@@ -78,11 +75,10 @@ int main()
 
 	system("pause");
 	return 0;
-}*/
+}
 
 
-
-///////////////////////////when user is both player x and system is player y/////////////////////////////////
+/////////////////////////// when user is player x and system is player y /////////////////////////////////
 
 
 /*int main()
